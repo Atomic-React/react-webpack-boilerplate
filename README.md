@@ -1,4 +1,4 @@
-# Atomic React - Webpack boilerplate
+# ⚛️ Atomic React - Webpack boilerplate
 
 To start using, clone the repository and name the project as you need:
 
